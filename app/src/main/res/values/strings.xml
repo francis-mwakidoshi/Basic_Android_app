@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="account">Have an account?</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="Login">Log in</string>
+    <string name="new_user">New to M-Pay?</string>
+    <string name="signup">Sign up</string>
+    <string name="Welcome">Welcome to M-Pay</string>
+    <string name="join">Join M-Pay today.</string>
+    <string name="name">Full name</string>
+    <string name="phone">Phone number</string>
+    <string name="ID_NO">ID Number</string>
+    <string name="Zuku">Zuku</string>
+    <string name="KPLC">KPLC</string>
+    <string name="NCWSC">NCWSC</string>
+    <string name="KES">KES</string>
+    <string name="Charges">Charges</string>
+    <string name="Payment">Make Payment</string>
+    <string name="Total">Total</string>
+    <string name="dialog_title">Success</string>
+    <string name="dialog_msg">Your payment has been received</string>
+    <string name="registered">You have successfully registered and logged in.</string>
+    <string name="item">Add Utility Provider</string>
+    <string name="pass">Change Password</string>
+</resources>
